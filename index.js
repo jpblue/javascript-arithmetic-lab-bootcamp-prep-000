@@ -23,3 +23,17 @@ function inc(a){
   return number;
 }
 
+function dec(a){ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
