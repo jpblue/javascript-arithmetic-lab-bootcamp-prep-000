@@ -24,7 +24,11 @@ function inc(a){
 }
 
 function dec(a){ 
-  
+  number = a - 1;
+  return number;
+}
+
+
   
   
   
