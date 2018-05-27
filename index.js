@@ -18,3 +18,5 @@ function divide(a, b){
   return number;
 }
 
+function inc(a){
+  
