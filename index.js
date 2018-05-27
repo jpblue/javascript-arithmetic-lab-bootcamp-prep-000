@@ -13,3 +13,5 @@ function multiply(a, b){
   return number;
 }
 
+function divide(a, b){
+  
