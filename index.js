@@ -8,3 +8,5 @@ function subtract(a, b){
   return number;
 }
 
+function multiply(a, b){
+  
