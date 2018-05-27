@@ -14,4 +14,7 @@ function multiply(a, b){
 }
 
 function divide(a, b){
-  
+  number = a / b;
+  return number;
+}
+
